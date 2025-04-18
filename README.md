@@ -94,9 +94,6 @@ The application is broken down into several independent services, each responsib
 
 \* Programming Language: Java
 \* Framework: Spring Boot
-\* Database: (Specify your database, e.g., MySQL, PostgreSQL, MongoDB)
-\* Message Broker: (Specify if using, e.g., Kafka, RabbitMQ)
-\* API Gateway: (Specify if using, e.g., Spring Cloud Gateway, Zuul)
+\* Database: H2 Database
+\* API Gateway: Spring Cloud Gateway
 \* Build Tool: Maven/Gradle
-\* Containerization: Docker (Optional)
-\* Orchestration: Kubernetes (Optional)
